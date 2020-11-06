@@ -9,3 +9,5 @@ import Foundation
 
 
 printSum()
+printDivision ()
+
