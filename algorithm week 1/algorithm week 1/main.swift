@@ -11,4 +11,5 @@ import Foundation
 //printSum()
 //printDivision ()
 //printLeftStar()
-printPerformance()
+//printPerformance()
+readResultOX()
