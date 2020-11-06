@@ -13,6 +13,7 @@
 		AE9A31192554F2310072F957 /* p2438.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A31182554F2310072F957 /* p2438.swift */; };
 		AE9A311C2554F7440072F957 /* p2920.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A311B2554F7440072F957 /* p2920.swift */; };
 		AE9A311F25551B750072F957 /* p8958.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A311E25551B750072F957 /* p8958.swift */; };
+		AE9A3122255527A10072F957 /* p11654.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9A3121255527A10072F957 /* p11654.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		AE9A31182554F2310072F957 /* p2438.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2438.swift; sourceTree = "<group>"; };
 		AE9A311B2554F7440072F957 /* p2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p2920.swift; sourceTree = "<group>"; };
 		AE9A311E25551B750072F957 /* p8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p8958.swift; sourceTree = "<group>"; };
+		AE9A3121255527A10072F957 /* p11654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = p11654.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				AE9A31182554F2310072F957 /* p2438.swift */,
 				AE9A311B2554F7440072F957 /* p2920.swift */,
 				AE9A311E25551B750072F957 /* p8958.swift */,
+				AE9A3121255527A10072F957 /* p11654.swift */,
 			);
 			path = "algorithm week 1";
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				AE9A31122554DFFB0072F957 /* p1000.swift in Sources */,
 				AE9A31192554F2310072F957 /* p2438.swift in Sources */,
 				AE9A311C2554F7440072F957 /* p2920.swift in Sources */,
+				AE9A3122255527A10072F957 /* p11654.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

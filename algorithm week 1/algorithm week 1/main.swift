@@ -12,4 +12,6 @@ import Foundation
 //printDivision ()
 //printLeftStar()
 //printPerformance()
-readResultOX()
+//ResultOX()
+convertASCII()
+
