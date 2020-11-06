@@ -8,6 +8,6 @@
 import Foundation
 
 
-printSum()
-printDivision ()
-
+//printSum()
+//printDivision ()
+printLeftStar()
