@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AEF4989E255E4F9A00557199 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF4989D255E4F9A00557199 /* main.swift */; };
 		AEF498A6255E4FC900557199 /* 1. array divisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498A5255E4FC900557199 /* 1. array divisor.swift */; };
+		AEF498A9255E567F00557199 /* 2. claw crane game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498A8255E567F00557199 /* 2. claw crane game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		AEF4989A255E4F9A00557199 /* week 2 algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "week 2 algorithm"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEF4989D255E4F9A00557199 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		AEF498A5255E4FC900557199 /* 1. array divisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. array divisor.swift"; sourceTree = "<group>"; };
+		AEF498A8255E567F00557199 /* 2. claw crane game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. claw crane game.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				AEF4989D255E4F9A00557199 /* main.swift */,
 				AEF498A5255E4FC900557199 /* 1. array divisor.swift */,
+				AEF498A8255E567F00557199 /* 2. claw crane game.swift */,
 			);
 			path = "week 2 algorithm";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				AEF4989E255E4F9A00557199 /* main.swift in Sources */,
 				AEF498A6255E4FC900557199 /* 1. array divisor.swift in Sources */,
+				AEF498A9255E567F00557199 /* 2. claw crane game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
