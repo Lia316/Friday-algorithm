@@ -10,6 +10,7 @@
 		AEF4989E255E4F9A00557199 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF4989D255E4F9A00557199 /* main.swift */; };
 		AEF498A6255E4FC900557199 /* 1. array divisor.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498A5255E4FC900557199 /* 1. array divisor.swift */; };
 		AEF498A9255E567F00557199 /* 2. claw crane game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498A8255E567F00557199 /* 2. claw crane game.swift */; };
+		AEF498AC255E68A000557199 /* 3. select & add array.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498AB255E68A000557199 /* 3. select & add array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		AEF4989D255E4F9A00557199 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		AEF498A5255E4FC900557199 /* 1. array divisor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. array divisor.swift"; sourceTree = "<group>"; };
 		AEF498A8255E567F00557199 /* 2. claw crane game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. claw crane game.swift"; sourceTree = "<group>"; };
+		AEF498AB255E68A000557199 /* 3. select & add array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. select & add array.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				AEF4989D255E4F9A00557199 /* main.swift */,
 				AEF498A5255E4FC900557199 /* 1. array divisor.swift */,
 				AEF498A8255E567F00557199 /* 2. claw crane game.swift */,
+				AEF498AB255E68A000557199 /* 3. select & add array.swift */,
 			);
 			path = "week 2 algorithm";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEF4989E255E4F9A00557199 /* main.swift in Sources */,
+				AEF498AC255E68A000557199 /* 3. select & add array.swift in Sources */,
 				AEF498A6255E4FC900557199 /* 1. array divisor.swift in Sources */,
 				AEF498A9255E567F00557199 /* 2. claw crane game.swift in Sources */,
 			);
