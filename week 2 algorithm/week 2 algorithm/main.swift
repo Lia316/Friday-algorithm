@@ -17,7 +17,13 @@ import Foundation
 //
 //print(solution2(testBoard, testMove))
 
-let test1 = [2,1,3,4,1]
-let test2 = [5,0,2,7]
-print(solution3(test1))
-print(solution3(test2))
+//let test1 = [2,1,3,4,1]
+//let test2 = [5,0,2,7]
+//print(solution3(test1))
+//print(solution3(test2))
+
+let answer1 = [1,2,3,4,5]
+let answer2 = [1,3,2,4,2]
+
+print(solution4(answer1))
+print(solution4(answer2))
