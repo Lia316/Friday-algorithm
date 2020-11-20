@@ -7,5 +7,8 @@
 
 import Foundation
 
+//print(solveMeFirst(a, b))
 
 
+let grades = [73, 67, 38, 33]
+print(gradingStudents(grades: grades))
