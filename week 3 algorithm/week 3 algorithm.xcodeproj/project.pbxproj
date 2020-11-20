@@ -13,6 +13,7 @@
 		AE0A36D92567771100DEB26E /* 3. Compare the Triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0A36D82567771100DEB26E /* 3. Compare the Triplets.swift */; };
 		AE0A36DC25678A0C00DEB26E /* 4. A Very Big Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0A36DB25678A0C00DEB26E /* 4. A Very Big Sum.swift */; };
 		AE0F5CFA25678E70002604D7 /* 5. Time Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0F5CF925678E70002604D7 /* 5. Time Conversion.swift */; };
+		AED5103125679F9F0062351B /* 6. Number Line Jumps.swift in Sources */ = {isa = PBXBuildFile; fileRef = AED5103025679F9F0062351B /* 6. Number Line Jumps.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		AE0A36D82567771100DEB26E /* 3. Compare the Triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Compare the Triplets.swift"; sourceTree = "<group>"; };
 		AE0A36DB25678A0C00DEB26E /* 4. A Very Big Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. A Very Big Sum.swift"; sourceTree = "<group>"; };
 		AE0F5CF925678E70002604D7 /* 5. Time Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5. Time Conversion.swift"; sourceTree = "<group>"; };
+		AED5103025679F9F0062351B /* 6. Number Line Jumps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "6. Number Line Jumps.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				AE0A36D82567771100DEB26E /* 3. Compare the Triplets.swift */,
 				AE0A36DB25678A0C00DEB26E /* 4. A Very Big Sum.swift */,
 				AE0F5CF925678E70002604D7 /* 5. Time Conversion.swift */,
+				AED5103025679F9F0062351B /* 6. Number Line Jumps.swift */,
 			);
 			path = "week 3 algorithm";
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE0A36D92567771100DEB26E /* 3. Compare the Triplets.swift in Sources */,
+				AED5103125679F9F0062351B /* 6. Number Line Jumps.swift in Sources */,
 				AE0A36D625675C7D00DEB26E /* 2. Grading Students.swift in Sources */,
 				AE0A36D325675A4700DEB26E /* 1. Solve Me First.swift in Sources */,
 				AE0F5CFA25678E70002604D7 /* 5. Time Conversion.swift in Sources */,
