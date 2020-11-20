@@ -12,6 +12,7 @@
 		AEF498A9255E567F00557199 /* 2. claw crane game.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498A8255E567F00557199 /* 2. claw crane game.swift */; };
 		AEF498AC255E68A000557199 /* 3. select & add array.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498AB255E68A000557199 /* 3. select & add array.swift */; };
 		AEF498AF255E734500557199 /* 4. model test score.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498AE255E734500557199 /* 4. model test score.swift */; };
+		AEF498B2255EC87900557199 /* 5. calendar 2016 .swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF498B1255EC87900557199 /* 5. calendar 2016 .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		AEF498A8255E567F00557199 /* 2. claw crane game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. claw crane game.swift"; sourceTree = "<group>"; };
 		AEF498AB255E68A000557199 /* 3. select & add array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. select & add array.swift"; sourceTree = "<group>"; };
 		AEF498AE255E734500557199 /* 4. model test score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. model test score.swift"; sourceTree = "<group>"; };
+		AEF498B1255EC87900557199 /* 5. calendar 2016 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5. calendar 2016 .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				AEF498A8255E567F00557199 /* 2. claw crane game.swift */,
 				AEF498AB255E68A000557199 /* 3. select & add array.swift */,
 				AEF498AE255E734500557199 /* 4. model test score.swift */,
+				AEF498B1255EC87900557199 /* 5. calendar 2016 .swift */,
 			);
 			path = "week 2 algorithm";
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 				AEF498AF255E734500557199 /* 4. model test score.swift in Sources */,
 				AEF498AC255E68A000557199 /* 3. select & add array.swift in Sources */,
 				AEF498A6255E4FC900557199 /* 1. array divisor.swift in Sources */,
+				AEF498B2255EC87900557199 /* 5. calendar 2016 .swift in Sources */,
 				AEF498A9255E567F00557199 /* 2. claw crane game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
