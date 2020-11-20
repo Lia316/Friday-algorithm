@@ -10,6 +10,7 @@
 		AE0A36CB256758A500DEB26E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0A36CA256758A500DEB26E /* main.swift */; };
 		AE0A36D325675A4700DEB26E /* 1. Solve Me First.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0A36D225675A4700DEB26E /* 1. Solve Me First.swift */; };
 		AE0A36D625675C7D00DEB26E /* 2. Grading Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0A36D525675C7D00DEB26E /* 2. Grading Students.swift */; };
+		AE0A36D92567771100DEB26E /* 3. Compare the Triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0A36D82567771100DEB26E /* 3. Compare the Triplets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		AE0A36CA256758A500DEB26E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		AE0A36D225675A4700DEB26E /* 1. Solve Me First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Solve Me First.swift"; sourceTree = "<group>"; };
 		AE0A36D525675C7D00DEB26E /* 2. Grading Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Grading Students.swift"; sourceTree = "<group>"; };
+		AE0A36D82567771100DEB26E /* 3. Compare the Triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Compare the Triplets.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				AE0A36CA256758A500DEB26E /* main.swift */,
 				AE0A36D225675A4700DEB26E /* 1. Solve Me First.swift */,
 				AE0A36D525675C7D00DEB26E /* 2. Grading Students.swift */,
+				AE0A36D82567771100DEB26E /* 3. Compare the Triplets.swift */,
 			);
 			path = "week 3 algorithm";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE0A36D92567771100DEB26E /* 3. Compare the Triplets.swift in Sources */,
 				AE0A36D625675C7D00DEB26E /* 2. Grading Students.swift in Sources */,
 				AE0A36D325675A4700DEB26E /* 1. Solve Me First.swift in Sources */,
 				AE0A36CB256758A500DEB26E /* main.swift in Sources */,
