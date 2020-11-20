@@ -13,3 +13,10 @@ func kangaroo(x1: Int, v1: Int, x2: Int, v2: Int) -> String {
     if time <= 0 || time - ceil(time) != 0 { return "NO" }
     return "YES"
 }
+
+// tip from Ted
+func kangarooRevised(x1: Int, v1: Int, x2: Int, v2: Int) -> String {
+    let time = (x2 - x1) % (v1 - v2)
+    if v2 > v1 || time != 0 { return "NO" }
+    return "YES"
+}
