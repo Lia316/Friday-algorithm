@@ -37,6 +37,16 @@ import Foundation
 
 // *************** 4. Roman to Integer ******************
 
-let test4 = Solution4()
-print(test4.romanToInt("MCMXCIV"))
+//let test4 = Solution4()
+//print(test4.romanToInt("MCMXCIV"))
 
+// *************** 5. Longest Common Prefix ******************
+
+let input51 = ["flower","flow","flight"]
+let input52 = ["dog","racecar","car"]
+let input53 = [String]()
+
+let test5 = Solution5()
+print(test5.longestCommonPrefix(input51))
+print(test5.longestCommonPrefix(input52))
+print(test5.longestCommonPrefix(input53))
