@@ -11,6 +11,7 @@
 		AE1FB1042570C2A500E5978E /* 1. Two Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1FB1032570C2A500E5978E /* 1. Two Sum.swift */; };
 		AE1FB1072570D1FA00E5978E /* 2. Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1FB1062570D1FA00E5978E /* 2. Reverse Integer.swift */; };
 		AE1FB10B2570D40600E5978E /* 3. Palindrome Number.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1FB10A2570D40600E5978E /* 3. Palindrome Number.swift */; };
+		AE1FB10E2570E0A500E5978E /* 4. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE1FB10D2570E0A500E5978E /* 4. Roman to Integer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		AE1FB1032570C2A500E5978E /* 1. Two Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1. Two Sum.swift"; sourceTree = "<group>"; };
 		AE1FB1062570D1FA00E5978E /* 2. Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Reverse Integer.swift"; sourceTree = "<group>"; };
 		AE1FB10A2570D40600E5978E /* 3. Palindrome Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Palindrome Number.swift"; sourceTree = "<group>"; };
+		AE1FB10D2570E0A500E5978E /* 4. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "4. Roman to Integer.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				AE1FB1032570C2A500E5978E /* 1. Two Sum.swift */,
 				AE1FB1062570D1FA00E5978E /* 2. Reverse Integer.swift */,
 				AE1FB10A2570D40600E5978E /* 3. Palindrome Number.swift */,
+				AE1FB10D2570E0A500E5978E /* 4. Roman to Integer.swift */,
 			);
 			path = "week 4 algorithm";
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				AE1FB0FC25709F1E00E5978E /* main.swift in Sources */,
 				AE1FB1042570C2A500E5978E /* 1. Two Sum.swift in Sources */,
+				AE1FB10E2570E0A500E5978E /* 4. Roman to Integer.swift in Sources */,
 				AE1FB10B2570D40600E5978E /* 3. Palindrome Number.swift in Sources */,
 				AE1FB1072570D1FA00E5978E /* 2. Reverse Integer.swift in Sources */,
 			);

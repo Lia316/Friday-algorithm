@@ -30,7 +30,13 @@ import Foundation
 
 // *************** 3. Palindrome Number ******************
 
-let test3 = Solution3()
-print(test3.isPalindrome(12521))
-print(test3.isPalindrome(-12521))
-print(test3.isPalindrome(0))
+//let test3 = Solution3()
+//print(test3.isPalindrome(12521))
+//print(test3.isPalindrome(-12521))
+//print(test3.isPalindrome(0))
+
+// *************** 4. Roman to Integer ******************
+
+let test4 = Solution4()
+print(test4.romanToInt("MCMXCIV"))
+
