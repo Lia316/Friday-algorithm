@@ -25,5 +25,12 @@ import Foundation
 
 // *************** 2. Reverse Integer ******************
 
-let test2 = Solution2()
-print(test2.reverse(-98750))
+//let test2 = Solution2()
+//print(test2.reverse(-98750))
+
+// *************** 3. Palindrome Number ******************
+
+let test3 = Solution3()
+print(test3.isPalindrome(12521))
+print(test3.isPalindrome(-12521))
+print(test3.isPalindrome(0))
