@@ -23,5 +23,7 @@ import Foundation
 //print(test1.twoSum(input2, target2))
 //print(test1.twoSum(input3, target3))
 
-// *************** 2. Reverse Intege ******************
+// *************** 2. Reverse Integer ******************
 
+let test2 = Solution2()
+print(test2.reverse(-98750))
