@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution1 {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var answerArr = [Int]()
         
