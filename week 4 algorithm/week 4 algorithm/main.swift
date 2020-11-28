@@ -42,11 +42,49 @@ import Foundation
 
 // *************** 5. Longest Common Prefix ******************
 
-let input51 = ["flower","flow","flight"]
-let input52 = ["dog","racecar","car"]
-let input53 = [String]()
+//let input51 = ["flower","flow","flight"]
+//let input52 = ["dog","racecar","car"]
+//let input53 = [String]()
+//
+//let test5 = Solution5()
+//print(test5.longestCommonPrefix(input51))
+//print(test5.longestCommonPrefix(input52))
+//print(test5.longestCommonPrefix(input53))
 
-let test5 = Solution5()
-print(test5.longestCommonPrefix(input51))
-print(test5.longestCommonPrefix(input52))
-print(test5.longestCommonPrefix(input53))
+// *************** 6. Merge Two Sorted Lists ******************
+
+let node3 = ListNode(4)
+let node2 = ListNode(2, node3)
+let node1 = ListNode(1, node2)
+
+let nodeb3 = ListNode(4)
+let nodeb2 = ListNode(3, nodeb3)
+let nodeb1 = ListNode(1, nodeb2)
+
+let list1 : ListNode? = nil
+let list2 : ListNode? = nil
+
+let list11 : ListNode? = nil
+let list22 = ListNode()
+
+let nodeA2 = ListNode(3)
+let nodeA1 = ListNode(-9, nodeA2)
+
+let nodeB2 = ListNode(7)
+let nodeB1 = ListNode(5, nodeB2)
+
+
+let test6 = Solution6()
+print("긴장 타라 \n1st")
+_ = test6.mergeTwoLists(node1, nodeb1)
+test6.newList = nil
+print("2nd")
+_ = test6.mergeTwoLists(list1, list2)
+test6.newList = nil
+print("3rd")
+_ = test6.mergeTwoLists(list11, list22)
+test6.newList = nil
+print("4th")
+_ = test6.mergeTwoLists(nodeA1, nodeB1)
+test6.newList = nil
+print("The End~~")
